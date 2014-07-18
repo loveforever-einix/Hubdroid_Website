@@ -1,0 +1,11 @@
+TODO LIST
+
+(From LoveForEver's point of view = estetic)
+
+* Change fonts to android's one ?
+* Remove clients part of home ?
+* Change "city" background on index.html
+* maybe change color panel of site?
+
+=> Give me work and i will do it 
+=> Maybe we should organize the task between us
