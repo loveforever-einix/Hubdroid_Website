@@ -12,6 +12,9 @@ Design part (From LoveForEver's point of view = estetic):
 
     => Will creat a index2.html to show you my thinking so you can agree or not (LoveForEver)
 
+==> Menu
+* Integrate "Rom" dropdown-menu in the nav bar
+* Put Blog in nav bar and maybe delete single-post (utility?)
 
 
 
