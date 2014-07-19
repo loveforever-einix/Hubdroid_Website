@@ -1,11 +1,38 @@
 TODO LIST
 
-(From LoveForEver's point of view = estetic)
+
+Design part (From LoveForEver's point of view = estetic):
 
 * Change fonts to android's one ?
 * Remove clients part of home ?
 * Change "city" background on index.html
 * maybe change color panel of site?
+
+
+Devlopement (and design also) part:
+
+* Create builders panel:
+  * Build Calendar
+  * Build job creator
+  * Some commands to clean work dir
+  * Final build management system to publish to the web the builds (public panel or host files providers) 
+* Create admin panel (for Info4Geek & percy_g2)
+  * All like builders
+  * Users management
+  * Quota management
+  * Server ressources monitoring
+  * Some commands
+* Create public part:
+  * Users can see ROMs and Kernel organized by builders usernames or groups on the homepage
+    * After selecting the ROM, the device and the build who user want to download, an download page appears with:
+      * File name
+      * By who ?
+      * MD5
+      * Number of download
+      * Download button
+  * Textual informations for users (with donation buttons and more)
+  * Contact tab
+
 
 => Give me work and i will do it 
 => Maybe we should organize the task between us
