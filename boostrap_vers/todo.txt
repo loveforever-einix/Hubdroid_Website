@@ -2,11 +2,18 @@ TODO LIST
 
 
 Design part (From LoveForEver's point of view = estetic):
-
+* Maybe change color panel of site?
 * Change fonts to android's one ?
-* Remove clients part of home ?
-* Change "city" background on index.html
-* maybe change color panel of site?
+
+==> index.html
+* Remove/Hide clients part of home (maybe replace with sponsors or partner later) ?
+* Change "city" background on index.html to something more Android
+* Keep latest work structure (pictures) and replace it with Rom Names (Miui, CM, PA, Omni, Carbon, etc)?
+
+    => Will creat a index2.html to show you my thinking so you can agree or not (LoveForEver)
+
+
+
 
 
 Devlopement (and design also) part:
