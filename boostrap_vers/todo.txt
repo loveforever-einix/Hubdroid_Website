@@ -26,12 +26,14 @@ Devlopement (and design also) part:
   * Build job creator
   * Some commands to clean work dir
   * Final build management system to publish to the web the builds (public panel or host files providers) 
+
 * Create admin panel (for Info4Geek & percy_g2)
   * All like builders
-  * Users management
+  * Users management: add/edit/remove user, modify rank (0: banned, 1: member, 2: builder, 3: admin 4: owner)
   * Quota management
   * Server ressources monitoring
   * Some commands
+
 * Create public part:
   * Users can see ROMs and Kernel organized by builders usernames or groups on the homepage
     * After selecting the ROM, the device and the build who user want to download, an download page appears with:
@@ -46,3 +48,8 @@ Devlopement (and design also) part:
 
 => Give me work and i will do it 
 => Maybe we should organize the task between us
+
+Important things will have to do before starting dev part : 
+ * Move the header part in includes/header.php and footer to includes/footer.php. It will be cool because if we have to chance something on the header, it will change that thing on all pages!
+ * Create a config.php file to store all database connection data. We include it in each page if we need access to the database.
+ * Establishing a MCD (a MySQL tables diagram) to see what tables we need, and if we use relations, what relation we need. I will publish a first diagram soon, feel free to give me your ideas.
