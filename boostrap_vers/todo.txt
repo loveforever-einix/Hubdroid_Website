@@ -2,19 +2,16 @@ TODO LIST
 
 
 Design part (From LoveForEver's point of view = estetic):
-* Maybe change color panel of site?
+* Modify footer (Done!)
 * Change fonts to android's one ?
 
 ==> index.html
-* Remove/Hide clients part of home (maybe replace with sponsors or partner later) ?
-* Change "city" background on index.html to something more Android
-* Keep latest work structure (pictures) and replace it with Rom Names (Miui, CM, PA, Omni, Carbon, etc)?
-
-    => Will creat a index2.html to show you my thinking so you can agree or not (LoveForEver)
+* Create pictures for roms
+* Change website picture with a bugdroid (Done!)
 
 ==> Menu
-* Integrate "Rom" dropdown-menu in the nav bar
-* Put Blog in nav bar and maybe delete single-post (utility?)
+* Integrate "Rom" dropdown-menu in the nav bar (Done!)
+* Put Blog in nav bar and maybe delete single-post (Done!)
 
 
 
@@ -50,6 +47,9 @@ Devlopement (and design also) part:
 => Maybe we should organize the task between us
 
 Important things will have to do before starting dev part : 
- * Move the header part in includes/header.php and footer to includes/footer.php. It will be cool because if we have to chance something on the header, it will change that thing on all pages!
+ * Move the header part in includes/header.php and footer to includes/footer.php. It will be cool because if we have to chance something on the header, it will change that thing on all pages! 
+
+	=> header and footer are now okay. I may change css later but won't touch code anymore so you can start your integration in includes folder 
+
  * Create a config.php file to store all database connection data. We include it in each page if we need access to the database.
  * Establishing a MCD (a MySQL tables diagram) to see what tables we need, and if we use relations, what relation we need. I will publish a first diagram soon, feel free to give me your ideas.
