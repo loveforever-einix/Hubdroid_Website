@@ -485,3 +485,22 @@ csmall2 {
 	padding-right: 15px;
 	font-size: 18px;
 }
+
+/*########### Phone List ############*/
+.phonelist{
+margin-top:20px;
+}
+	.phonelist li{
+	margin:0;
+	padding:0;
+	list-style-type:none;	
+	}
+
+	.phonelist a:hover{
+	color:#2B2E31;	
+	}
+
+.phonelistbar{
+border-bottom:1px solid #CCCCCC;
+margin-bottom:8px;
+}
