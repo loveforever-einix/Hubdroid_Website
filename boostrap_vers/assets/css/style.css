@@ -342,6 +342,7 @@ a:focus {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	background: #384452;
+	margin-top:10px;
 }
 
 #footerwrap p {
@@ -359,32 +360,6 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: #00b3fe
-}
-
-/* Copyright */
-#copywrap {
-	padding-top: 10px;
-	padding-bottom: 10px;
-	background: #384452;
-}
-
-#copywrap p {
-	color: #bfc9d3;
-	float:right;
-}
-
-#copywrap h4 {
-	color: white;
-}
-
-#copywrap i {
-	font-size: 30px;
-	color: #bfc9d3;
-	padding-right: 25px;
-}
-
-#copywrap i:hover {
 	color: #00b3fe
 }
 
@@ -523,4 +498,7 @@ clear:both;
 
 .downloadbar{
 border-bottom:1px solid #CCCCCC;
+}
+.download_img{
+margin:40px 0;
 }
