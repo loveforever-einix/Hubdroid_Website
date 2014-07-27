@@ -1,5 +1,8 @@
 TODO LIST
 
+----------------------------------------------------------------------------------
+EXPLANATION.HTML IS THE PAGE WHERE OPEN SOURCE, OPEN-DELTA AND SOURCE CODE ARE EXPLAINED
+----------------------------------------------------------------------------------
 
 Design part (From LoveForEver's point of view = estetic):
 * Modify footer (Done!)
